@@ -2,13 +2,26 @@
 
 ## In this repository I have shown some common types of queries used in database testing with screenshots of how the tables look like after each and every alterations. Also, I prepared some questions to work on the database project.
 
+![database-testing-mc-slide4_3](https://github.com/Akib7/Database-Testing-Project-1/assets/75217894/ed11b5e2-3cce-445f-9c75-d19d19ebe401)
+
+![database-testing-mc-slide1_1](https://github.com/Akib7/Database-Testing-Project-1/assets/75217894/5f85876b-1bb2-4e34-8afe-abe1f1c2ad0e)
+
 To perform effective database testing, various techniques and tools are used, such as SQL queries, test data generation, database comparison tools, and automation frameworks. It is important to have a comprehensive test strategy and test cases that cover all aspects of the database system to ensure its reliability and performance.
+
+![How-Does-SQL-Work](https://github.com/Akib7/Database-Testing-Project-1/assets/75217894/d09156c8-0c5f-4773-95b1-63d02b09c58c)
 
 When performing database testing, it's important to consider various scenarios, including boundary values, null values, error conditions, performance under different loads, and concurrency. By executing a variety of queries and analyzing the results, testers can assess the quality and reliability of the database system. Database testing involves verifying the accuracy, integrity, and performance of a database system. Queries are an essential part of database testing, as they are used to extract and manipulate data from the database.
 
+
+
 SQL queries play a crucial role in database testing as they allow testers to interact with the database and verify its functionality, integrity, and performance. Here I will be showing some SQL Queries for testing different database testing purposes about retrieving the correct data and also to do it in different ways using different queries. 
 
+![Elements-of-SQL](https://github.com/Akib7/Database-Testing-Project-1/assets/75217894/78a461a8-24d5-461a-b570-5e11bb497e6a)
+
 Database testing is the process of verifying the correctness, reliability, and performance of a database system. It involves testing various aspects of the database, such as data integrity, data consistency, data validation, and the overall functionality of the database.
+
+![command types in SQL DataBase](https://github.com/Akib7/Database-Testing-Project-1/assets/75217894/13e9ed80-5e57-4fd0-9831-b1cee7c99123)
+
 Here are some key aspects of database testing:
 - Data Integrity: Database testing ensures that the data stored in the database is accurate, complete, and consistent. It involves validating primary key constraints, foreign key relationships, unique constraints, and data validations defined in the database schema.
 - Data Manipulation: Database testing involves testing the various operations performed on the database, such as inserting, updating, and deleting records. It ensures that these operations are executed correctly and produce the expected results.
