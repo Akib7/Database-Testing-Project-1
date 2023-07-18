@@ -1,7 +1,6 @@
 # Database-Testing-Project
 
-## In this repository I have shown some common types of queries used in database testing with screenshots of how the tables look like after
-each and every alterations.
+## In this repository I have shown some common types of queries used in database testing with screenshots of how the tables look like after each and every alterations.
 
 To perform effective database testing, various techniques and tools are used, such as SQL queries, test data generation, database comparison tools, and automation frameworks. It is important to have a comprehensive test strategy and test cases that cover all aspects of the database system to ensure its reliability and performance.
 
