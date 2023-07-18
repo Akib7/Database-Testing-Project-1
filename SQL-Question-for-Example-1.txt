@@ -1,0 +1,26 @@
+CREATE TABLE Employee (
+    EmpId int,
+    Name varchar(255),
+    ManagerId int,
+    DOJ DATETIME,
+  	City varchar(255),
+    PRIMARY KEY (EmpId)
+);
+
+CREATE TABLE Salary (
+    EmpId int,
+    Project varchar(255),
+    Salary int,
+    Variable int,
+    PRIMARY KEY (EmpId)
+);
+
+INSERT INTO Employee VALUES
+	(121, 'John', 321, '1/31/2016', 'hyd'),
+    (321, 'David', 986, '1/30/2018', 'Chennai'),
+    (421, 'Scott', 876, '27/11/2020', 'Mumbai');
+
+INSERT INTO Salary VALUES
+	(121, 'P1', 20000, 0),
+    (321, 'P2', 35000, 1000),
+    (421, 'P1', 50000, 3000);
